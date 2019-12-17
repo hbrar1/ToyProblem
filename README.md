@@ -24,4 +24,4 @@ I'm working on incorporating a build script that will create a copy of the folde
 
 This repo is constantly evolving and because of that there are likely going to be typos and errors. I'm currently in the middle of restructuring how the files are organized so that it makes the most intuitive sense and keeps things as flat and searchable as possible.
 
-But if you have feedback or thoughts feel free to submit a Github Issue and I'll be more than happy to take a look. And I'm always looking for new problems to solve, so feel free to submit questions either as Issues or email me <sergey@outco.co>.
+But if you have feedback or thoughts feel free to submit a Github Issue and I'll be more than happy to take a look. And I'm always looking for new problems to solve, so feel free to submit questions either as Issues or email me <harman4422@gmail.com>
