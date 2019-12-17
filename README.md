@@ -2,8 +2,6 @@
 
 A repository full of 175+ data structures and algorithm problems designed to help software engineers pass their technical interviews. These problems are all in JavaScript, and are drawn from a variety of sources, including actual questions software engineers have gotten on interviews, [Leetcode](https://leetcode.com), [Geeks for Geeks](https://www.geeksforgeeks.org/), [Hackerrank](https://hackerrank.com) and many more.
 
-Also checkout some of the stuff I've written for [Outco](https://outco.io) on [Medium](https://medium.com/outco). We're a career accelerator for software engineers with new cohorts starting every month.
-
 This repo is meant for anyone interested in leveling up their problem-solving abilities, so feel free to fork it and look through it. Hopefully you'll find something that helps!
 
 ## Future Plans
